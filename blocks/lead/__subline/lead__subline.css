@@ -1,0 +1,30 @@
+.lead__subline{
+    text-align: left;
+    margin: 8px auto 0px;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 1.4;
+    justify-self: flex-start;
+    max-width: 984px;
+    width: 77%;
+    text-align: left;
+            
+}
+
+@media screen and (max-width: 1024px){
+    .lead__subline{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 770px){
+    .lead__subline{
+        margin: 8px 0 0 24px;
+    }
+}
+
+@media screen and (max-width: 380px){
+    .lead__subline{
+        margin: 8px 0 0 16px;
+    }
+}

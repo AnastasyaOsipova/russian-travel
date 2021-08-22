@@ -1,0 +1,13 @@
+.intro{
+    width: 76.89%;
+    margin: 92px auto 0;
+    max-width: 984px;
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+@media screen and (max-width: 380px) {
+    .intro{
+        margin: 64px auto 0;  
+    }
+    
+}
