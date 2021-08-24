@@ -1,3 +1,19 @@
 .intro__container{
-    width: 70.12%;
+    max-width: 690px;
+}
+
+@media screen and (max-width: 770px) {
+    .intro__container{
+        max-width: 720px;
+        margin: 0 auto 0;
+    }
+    
+}
+
+@media screen and (max-width: 380px) {
+    .intro__container{
+        max-width: 288px;
+        margin: 0 auto 0;
+    }
+    
 }

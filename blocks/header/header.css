@@ -9,7 +9,7 @@
     font-family: 'Inter', Arial, sans-serif;
         }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 380px) {
     .header{
         min-height: 58px;
     }

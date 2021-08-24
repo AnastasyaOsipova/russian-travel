@@ -2,6 +2,12 @@
     font-size: 18px;
     line-height: 1.6;
     font-weight: 400;
+    margin: 0;
+    padding-bottom: 26px;
+}
+
+.places__paragraph:last-of-type{
+    padding-bottom: 0;
 }
 
 @media screen and (max-width: 770px) {
