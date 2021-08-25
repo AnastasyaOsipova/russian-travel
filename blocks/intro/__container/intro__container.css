@@ -2,6 +2,14 @@
     max-width: 690px;
 }
 
+@media screen and (max-width: 1030px) {
+    .intro__container{
+        width: 95%;
+        margin: 0 auto 0;
+    }
+    
+}
+
 @media screen and (max-width: 770px) {
     .intro__container{
         max-width: 720px;
@@ -9,6 +17,16 @@
     }
     
 }
+
+
+@media screen and (max-width: 760px) {
+    .intro__container{
+        width: 95%;
+        margin: 0 auto 0;
+    }
+    
+}
+
 
 @media screen and (max-width: 380px) {
     .intro__container{

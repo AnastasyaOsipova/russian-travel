@@ -1,7 +1,6 @@
 .photo-grid{
     display: grid;
     max-width: 1184px;
-    width: 90%;
     margin: 92px auto 0;
     grid-template-columns: repeat(auto-fit, minmax(284px,284px));
     grid-gap: 16px 16px;

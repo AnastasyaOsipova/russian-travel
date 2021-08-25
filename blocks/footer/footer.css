@@ -9,7 +9,7 @@
     font-family: 'Inter', Arial, sans-serif;
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 740px) {
     .footer{
         flex-direction: column;
         padding: 64px 0 24px 0;
