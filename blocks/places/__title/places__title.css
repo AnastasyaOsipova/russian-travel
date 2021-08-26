@@ -6,12 +6,9 @@
 
 @media screen and (max-width: 780px){
     .places__title{
-        font-size: 42px;}
-}
-
-@media screen and (max-width: 780px){
-    .places__title{
+        font-size: 42px;
         font-size: 32px;
         align-self: flex-start;
-    }
+            }
 }
+
